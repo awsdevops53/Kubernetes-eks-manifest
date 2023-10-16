@@ -1,0 +1,4 @@
+kubectl create -f replicaset-demo.yml
+Get list of ReplicaSets
+kubectl get replicaset
+kubectl get rs
